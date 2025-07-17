@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.titulo-principal {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #ffcb05; /* opcional: amarillo pokémon */
+  text-shadow: 1px 1px 3px #3b4cca; /* opcional: sombra azul pokémon */
+}
